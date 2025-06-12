@@ -14,7 +14,7 @@ This project is a FastAPI application that automatically processes incoming emai
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ren-418/Zaiper-Automation-OpenAI-Summarizer
 cd <repository-name>
 ```
 
